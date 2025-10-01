@@ -63,18 +63,23 @@ Power BI (interactive dashboard)
 
  ## 📂 Repository Structure  
 
-blinkit-analytics-case-study/
+### Repository Structure
+
+```
+blinkit sales analysis/
 │
-├── data/  
-│ └── blinkit_dataset.csv
+├── Dashbord_Screenshot.png
+├── Query Blinkit Analysis.docx
 │
-├── sql/  
-│ └── blinkit_analysis.sql
+├── data/
+│       BlinkIT Grocery Data.csv
 │
-├── python/  
-│ └── blinkit_analysis.ipynb
+├── power BI/
+│       blinkit_portfolio_project.pbix
 │
-├── powerbi/  
-│ └── blinkit_dashboard.pbix
+├── python/
+│       Blinkit_analysis_python_project.ipynb
 │
-└── README.md  
+└── sql/
+        blinkit_analysis.sql
+```
